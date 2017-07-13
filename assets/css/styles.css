@@ -1,0 +1,58 @@
+.container {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border: 4px solid #262626;
+}
+
+body {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #262626;
+}
+
+h1 {
+  text-transform: uppercase;
+  padding: 10px 0 0 10px;
+  margin-bottom: 5px;;
+}
+
+h5 {
+  text-transform: uppercase;
+  padding: 0 0 10px 10px;
+}
+
+p {
+  text-align: justify;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.btn {
+  margin: 20px auto;
+  border: 2px solid #262626;
+  border-radius: 0;
+  text-transform: uppercase;
+}
+
+.logos {
+ list-style-type: none;
+ display: flex;
+ width: 124px;
+ margin: 10px auto;
+ padding: 0;
+}
+
+.logo {
+  height: 25px;
+  width: 25px;
+  margin: 0 3px;
+}
+
+img {
+  width: 25px;
+}
+
+.fa {
+  font-size: 25px;
+  color: #262626;
+}
